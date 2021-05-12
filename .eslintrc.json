@@ -23,6 +23,7 @@
       "@typescript-eslint/no-use-before-define": [
 	      "error"
       ],
+      "class-methods-use-this": "off",
       "no-console": "off",
       "import/extensions": [
         "error",

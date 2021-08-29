@@ -14,6 +14,7 @@ appointmentsRouter.get('/', async (request, response) => {
   return response.json(appointments);
 });
 
+// Teste
 // http://localhost:3333/appointments
 appointmentsRouter.post('/', async (request, response) => {
   try {
